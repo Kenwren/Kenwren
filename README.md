@@ -1,4 +1,4 @@
-![alt text](https://t.co/FPL0aeOXme”)
+![lofi](https://github.com/Kenwren/kenwren/assets/155591015/32475d30-d661-4808-8678-57820843befc)
 
 ## About me
 <br>

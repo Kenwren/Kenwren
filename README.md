@@ -9,9 +9,6 @@ transform ideas into a reality.
 My programming experience includes Javascript, and Node. Would you like to know more? Get in touch, grab a cup of coffee. I will look forward to be hearing from you!
 <br>
 
-<h1 align="center">Hi 👋, I'm Kenwren L. Apilado</h1>
-<h3 align="center">I am passionate developer focused on creating beautiful, aesthetic and functional websites. I also enjoy learning and helping others to transform ideas into a reality.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenwren&label=Profile%20views&color=0e75b6&style=flat" alt="kenwren" /> </p>
 
 - 📫 How to reach me **kenwren31@gmail.com**

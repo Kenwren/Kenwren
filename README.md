@@ -1,7 +1,6 @@
 ![lofi](https://github.com/Kenwren/kenwren/assets/155591015/7b0464b2-2686-47f3-b437-dfabe31248a5)
 
 ## About me
-<br>
 Hello planet! I am Kenwren L. Apilado, a Student of MITT and a software developer in Winnipeg Canada.
 
 I am passionate developer focused on creating beautiful, aesthetic and functional websites. I also enjoy learning and helping others to
@@ -16,6 +15,22 @@ My programming experience includes Javascript, and Node. Would you like to know 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenwren&label=Profile%20views&color=0e75b6&style=flat" alt="kenwren" /> </p>
 
 - 📫 How to reach me **kenwren31@gmail.com**
+
+### My skills
+<p align="center">
+  <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/code-typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=coffeescript&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/db-firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=2aa889")/>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

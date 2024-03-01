@@ -13,6 +13,8 @@ My programming experience includes Javascript, and Node. Would you like to know 
 
 - How to reach me **kenwren31@gmail.com**
 
+##
+
 ### My skills
 <p align="center">
   <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;

@@ -1,4 +1,4 @@
-![lofi](https://github.com/Kenwren/kenwren/assets/155591015/32475d30-d661-4808-8678-57820843befc)
+![lofi](https://github.com/Kenwren/kenwren/assets/155591015/7b0464b2-2686-47f3-b437-dfabe31248a5)
 
 ## About me
 <br>
@@ -8,6 +8,7 @@ I am passionate developer focused on creating beautiful, aesthetic and functiona
 transform ideas into a reality. 
 
 My programming experience includes Javascript, and Node. Would you like to know more? Get in touch, grab a cup of coffee. I will look forward to be hearing from you!
+<br>
 
 <h1 align="center">Hi 👋, I'm Kenwren L. Apilado</h1>
 <h3 align="center">I am passionate developer focused on creating beautiful, aesthetic and functional websites. I also enjoy learning and helping others to transform ideas into a reality.</h3>

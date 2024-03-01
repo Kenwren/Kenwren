@@ -40,4 +40,4 @@ My programming experience includes Javascript, and Node. Would you like to know 
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kenwren&bg_color=141010&color=5fbfb4&line=57e5af&point=ccfff7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kenwren&bg_color=0e111a&color=5fbfb4&line=57e5af&point=ccfff7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))

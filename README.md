@@ -11,7 +11,7 @@ My programming experience includes Javascript, and Node. Would you like to know 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenwren&label=Profile%20views&color=0e75b6&style=flat" alt="kenwren" /> </p>
 
-- 📫 How to reach me **kenwren31@gmail.com**
+- How to reach me **kenwren31@gmail.com**
 
 ### My skills
 <p align="center">

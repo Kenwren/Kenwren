@@ -25,7 +25,8 @@ My programming experience includes Javascript, and Node. Would you like to know 
 
 ### Connect with me:
 <p align="left">
-<a href="https://twitter.com/kenwrenapilado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenwrenapilado" height="30" width="40" /></a>
+<a href="https://twitter.com/kenwrenapilado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenwrenapilado" height="30" width="40" /></a> <span>
+<a href="https://linkedin.com/in/kenwren apilado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenwren apilado" height="30" width="40" /></a> <span>
 <a href="https://instagram.com/kenwren_taishou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kenwren_taishou" height="30" width="40" /></a>
 </p>
 

@@ -1,9 +1,9 @@
 ![lofi](https://github.com/Kenwren/kenwren/assets/155591015/7b0464b2-2686-47f3-b437-dfabe31248a5)
 
 ## About me
-Hello planet! I am Kenwren L. Apilado, a Student of MITT and a software developer in Winnipeg Canada.
+Hello world! I am Kenwren L. Apilado, a Student of MITT and a software developer in Winnipeg Canada.
 
-I am passionate developer focused on creating beautiful, aesthetic and functional websites. I also enjoy learning and helping others to
+I am passionate developer dedicated on creating beautiful, aesthetic and functional websites and games. I also enjoy helping and learning from others to
 transform ideas into a reality. 
 
 My programming experience includes Javascript, and Node. Would you like to know more? Get in touch, grab a cup of coffee. I will look forward to be hearing from you!

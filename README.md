@@ -1,4 +1,4 @@
-![logo]https://www.pinterest.ca/pin/394205773631815602/
+![alt text](https://www.pinterest.ca/pin/394205773631815602/)
 
 ## About me
 <br>

@@ -1,9 +1,13 @@
+![logo]https://www.pinterest.ca/pin/394205773631815602/
+
 ## About me
 <br>
 Hello planet! I am Kenwren L. Apilado, a Student of MITT and a software developer in Winnipeg Canada.
 
 I am passionate developer focused on creating beautiful, aesthetic and functional websites. I also enjoy learning and helping others to
 transform ideas into a reality. 
+
+My programming experience includes Javascript, and Node. Would you like to know more? Get in touch, grab a cup of coffee. I will look forward to be hearing from you!
 
 <h1 align="center">Hi 👋, I'm Kenwren L. Apilado</h1>
 <h3 align="center">I am passionate developer focused on creating beautiful, aesthetic and functional websites. I also enjoy learning and helping others to transform ideas into a reality.</h3>

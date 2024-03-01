@@ -21,8 +21,9 @@ My programming experience includes Javascript, and Node. Would you like to know 
   <img src="https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889")/>&nbsp;
 </p>
 
+##
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://twitter.com/kenwrenapilado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenwrenapilado" height="30" width="40" /></a>
 <a href="https://instagram.com/kenwren_taishou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kenwren_taishou" height="30" width="40" /></a>

@@ -14,7 +14,11 @@ My programming experience includes Javascript, and Node. Would you like to know 
 - How to reach me **kenwren31@gmail.com**
 
 ##
-
+### Projects
+- [Finding github](https://github-lookup-2020.netlify.app/).
+- [Linked-Out](https://github.com/Kenwren/linked-out).
+  [Movie Finder](https://kenwren.github.io/movie-finder/).
+##
 ### My skills
 <p>
   <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;

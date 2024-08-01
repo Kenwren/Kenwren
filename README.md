@@ -17,7 +17,7 @@ My programming experience includes Javascript, and Node. Would you like to know 
 ### Projects
 - [Finding github](https://github-lookup-2020.netlify.app/).
 - [Linked-Out](https://github.com/Kenwren/linked-out).
-  [Movie Finder](https://kenwren.github.io/movie-finder/).
+- [Movie Finder](https://kenwren.github.io/movie-finder/).
 ##
 ### My skills
 <p>
